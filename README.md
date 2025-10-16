@@ -2,7 +2,7 @@
 
 Welcome to the portfolio website for Utkarsh Srivastava. This is a lightweight, responsive static site built with plain HTML, CSS and JavaScript showcasing projects, experience and a contact form.
 
-🎯 Live (will be deployed via GitHub Pages):
+🎯 Live (will be deployed via Vercel):
 
 https://Speedyy29.github.io/Utkarsh-Srivastava-portfolio/
 
