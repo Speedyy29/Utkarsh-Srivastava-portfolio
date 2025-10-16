@@ -10,7 +10,7 @@ https://Speedyy29.github.io/Utkarsh-Srivastava-portfolio/
 
 ## Preview
 
-Open `portfolio.html` to see the main portfolio layout (hero, experience, skills, projects and contact form).
+Open `index.html` to see the main portfolio layout (hero, experience, skills, projects and contact form).
 
 ## Local development
 
